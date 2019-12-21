@@ -6,7 +6,7 @@
 
 | Class           | Value                                                                 |
 |-----------------|-----------------------------------------------------------------------|
-| Ethereum Wallet | 0xb6a34Bd460f02241e80e031023ec20ce6FC310AE                            |
+| Ethereum Wallet | 0xb6a34Bd460f02241e80e031023ec20ce6FC310AE                           |
 | Node Address    | 0x66b5842cd5053892fb0d8b4a6d9f57fea6a64ad7                            |
 | Region          | AVAIL                                                                 |
 | Node            | Signer, Validator, Authority, Heartbeat                               |
